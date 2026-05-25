@@ -138,6 +138,7 @@ def analizar_rendimiento(lista_loss, lista_latencias):
 
 
 
+
 def calcular_rmse(predicciones, reales):
     """
     Usa la biblioteca 'math' para calcular el Root Mean Squared Error (RMSE).
