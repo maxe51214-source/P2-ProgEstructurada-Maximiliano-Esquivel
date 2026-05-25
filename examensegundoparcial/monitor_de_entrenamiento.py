@@ -44,6 +44,7 @@ def obtener_info_sistema():
 
     # sys 3
     print("Valor máximo permitido:", sys.maxsize)
+    
 
 
 def simular_metricas_entrenamiento(cantidad_epochs):
